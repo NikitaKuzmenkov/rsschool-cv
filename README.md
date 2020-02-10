@@ -1,1 +1,1 @@
-lrtj
+<https://NikitaKuzmenkov.github.io/rsschool-cv/cv>
